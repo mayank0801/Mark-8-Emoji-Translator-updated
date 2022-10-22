@@ -1,4 +1,4 @@
-# Mark-8-Emoji-Translator-updated
+# Emoji-Translator
 ## About:
 1. The application takes input as an emoji from the user and then displays the meaning for the same if we have that in our database.
 2. User can also select options present by default by hovering onto them and clicking on the same to have the same information.
